@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}D2 材料真空兼容性测试和等离子特性研究 \hskip 1em\relax \heiti 原理背景}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}实验目的}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}实验内容}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}仪器用具}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4} 实验安全注意事项}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}原理概述}{4}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}真空的获得与测量}{4}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}固体对气体的吸附及气体的脱附}{4}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}气体放电、等离子体和帕邢定律}{5}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}四极质谱仪}{5}{subsubsection.1.5.4}%
+\contentsline {section}{\numberline {2}D1 锁相放大器与弱信号测量(1) \hskip 1em\relax \heiti 预习报告}{7}{section.2}%
+\contentsline {section}{\numberline {3} D1 锁相放大器与弱信号测量(1)\hskip 1em\relax \heiti 实验记录}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}实验过程遇到问题及解决办法}{9}{subsection.3.1}%
+\contentsline {section}{\numberline {4}D1 锁相放大器与弱信号测量(1)\hskip 1em\relax \heiti 分析与讨论}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}实验数据分析}{10}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}}{10}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}}{10}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}}{10}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}实验后思考题}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}ETX 实验名称××× \hskip 1em\relax \heiti 结语}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}实验心得和体会、意见建议等}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}附件及实验相关的软硬件资料等}{11}{subsection.5.2}%
+\contentsfinish 

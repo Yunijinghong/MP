@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.16)  26 SEP 2024 23:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.16)  11 OCT 2024 16:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -895,26 +895,57 @@ File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
  (d:/texlive/2023/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count380
-)) (d:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
+)) (d:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip84
+\LTright=\skip85
+\LTpre=\skip86
+\LTpost=\skip87
+\LTchunksize=\count381
+\LTcapwidth=\dimen358
+\LT@head=\box95
+\LT@firsthead=\box96
+\LT@foot=\box97
+\LT@lastfoot=\box98
+\LT@gbox=\box99
+\LT@cols=\count382
+\LT@rows=\count383
+\c@LT@tables=\count384
+\c@LT@chunks=\count385
+\LT@p@ftn=\toks49
+) (d:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen358
-\lightrulewidth=\dimen359
-\cmidrulewidth=\dimen360
-\belowrulesep=\dimen361
-\belowbottomsep=\dimen362
-\aboverulesep=\dimen363
-\abovetopsep=\dimen364
-\cmidrulesep=\dimen365
-\cmidrulekern=\dimen366
-\defaultaddspace=\dimen367
-\@cmidla=\count381
-\@cmidlb=\count382
-\@aboverulesep=\dimen368
-\@belowrulesep=\dimen369
-\@thisruleclass=\count383
-\@lastruleclass=\count384
-\@thisrulewidth=\dimen370
-) (./MP2.aux)
+\heavyrulewidth=\dimen359
+\lightrulewidth=\dimen360
+\cmidrulewidth=\dimen361
+\belowrulesep=\dimen362
+\belowbottomsep=\dimen363
+\aboverulesep=\dimen364
+\abovetopsep=\dimen365
+\cmidrulesep=\dimen366
+\cmidrulekern=\dimen367
+\defaultaddspace=\dimen368
+\@cmidla=\count386
+\@cmidlb=\count387
+\@aboverulesep=\dimen369
+\@belowrulesep=\dimen370
+\@thisruleclass=\count388
+\@lastruleclass=\count389
+\@thisrulewidth=\dimen371
+) (./MP2.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `@cref' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `@cref' multiply defined.
+
+)
 \openout1 = `MP2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -1036,9 +1067,13 @@ Package hyperref Info: Link coloring ON on input line 15.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (d:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count385
+\c@lstlisting=\count390
  (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
 
 Package fontspec Info: Could not resolve font "KaiTi/BI" (it probably doesn't
@@ -1184,14 +1219,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [6]
+File: ./images//签字.jpg Graphic file (type bmp)
+<./images//签字.jpg>
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 266.
+(hyperref)                replaced by space on input line 288.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\heiti' on input line 266.
+(hyperref)                removing `\heiti' on input line 288.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1203,19 +1241,73 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [7
 
 ]
-File: ./images//签字.jpg Graphic file (type bmp)
-<./images//签字.jpg>
-File: ./images//wx.jpg Graphic file (type bmp)
-<./images//wx.jpg>
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 291.
+(hyperref)                replaced by space on input line 499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\heiti' on input line 291.
+(hyperref)                removing `\heiti' on input line 499.
+
+File: ./images//pt.png Graphic file (type bmp)
+<./images//pt.png>
+File: ./images//px.png Graphic file (type bmp)
+<./images//px.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12
+
+]
+File: ./images//an.png Graphic file (type bmp)
+<./images//an.png>
+File: ./images//kongqi.png Graphic file (type bmp)
+<./images//kongqi.png>
+File: ./images//he1.png Graphic file (type bmp)
+<./images//he1.png>
+File: ./images//ar1.png Graphic file (type bmp)
+<./images//ar1.png>
+File: ./images//ne1.png Graphic file (type bmp)
+<./images//ne1.png>
+File: ./images//空气12pa446v600微安.txt_spectrum_filtered.png Graphic file (type bmp)
+<./images//空气12pa446v600微安.txt_spectrum_filtered.png>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1224,9 +1316,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8
+[13]
+File: ./images//he 24pa 725v600微安.txt_spectrum_filtered.png Graphic file (type bmp)
+<./images//he 24pa 725v600微安.txt_spectrum_filtered.png>
+File: ./images//ar 24pa 328v600.txt_spectrum_filtered.png Graphic file (type bmp)
+<./images//ar 24pa 328v600.txt_spectrum_filtered.png>
+File: ./images//ne 24pa 437v600微安.txt_spectrum_filtered.png Graphic file (type bmp)
+<./images//ne 24pa 437v600微安.txt_spectrum_filtered.png>
 
-]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1234,18 +1331,85 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[9
+[14]
+File: ./images//ar41.png Graphic file (type bmp)
+<./images//ar41.png>
+File: ./images//Ar42.png Graphic file (type bmp)
+<./images//Ar42.png>
+File: ./images//he41.png Graphic file (type bmp)
+<./images//he41.png>
+File: ./images//He42.png Graphic file (type bmp)
+<./images//He42.png>
+File: ./images//ne41.png Graphic file (type bmp)
+<./images//ne41.png>
+File: ./images//Ne42.png Graphic file (type bmp)
+<./images//Ne42.png>
 
-]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15]
+File: ./images//本底41.png Graphic file (type bmp)
+<./images//本底41.png>
+File: ./images//本底42.png Graphic file (type bmp)
+<./images//本底42.png>
+File: ./images//空气41.png Graphic file (type bmp)
+<./images//空气41.png>
+File: ./images//空气42.png Graphic file (type bmp)
+<./images//空气42.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16]
+File: ./images//1000.png Graphic file (type bmp)
+<./images//1000.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 325.
+(hyperref)                replaced by space on input line 814.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\heiti' on input line 325.
+(hyperref)                removing `\heiti' on input line 814.
 
+File: ./images//桌面.jpg Graphic file (type bmp)
+<./images//桌面.jpg>
+File: ./images//签字111.jpg Graphic file (type bmp)
+<./images//签字111.jpg>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1253,44 +1417,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 373.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\heiti' on input line 373.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[11
+[20
 
 ] (./MP2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MP2.out' has not changed.
-(rerunfilecheck)             Checksum: EFDDF85BF3E4A21B76A2B4C57348EA4E;3025.
+(rerunfilecheck)             Checksum: CFD9933AD7003447749E2B4D791973BC;4319.
  ) 
 Here is how much of TeX's memory you used:
- 38139 strings out of 476683
- 824991 string characters out of 5807575
- 1887012 words of memory out of 5000000
- 57757 multiletter control sequences out of 15000+600000
+ 38601 strings out of 476683
+ 837530 string characters out of 5807575
+ 1888012 words of memory out of 5000000
+ 58191 multiletter control sequences out of 15000+600000
  519209 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 105i,12n,107p,427b,960s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,12n,107p,427b,958s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on MP2.pdf (11 pages).
+Output written on MP2.pdf (20 pages).

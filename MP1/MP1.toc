@@ -28,5 +28,5 @@
 \contentsline {subsection}{\numberline {4.2}实验后思考题}{24}{subsection.4.2}%
 \contentsline {section}{\numberline {5}D1 锁相放大器与弱信号测量(1) \hskip 1em\relax \heiti 结语}{26}{section.5}%
 \contentsline {subsection}{\numberline {5.1}实验心得和体会、意见建议等}{26}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}附件及实验相关的软硬件资料等}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.2}附件及实验相关的软硬件资料}{26}{subsection.5.2}%
 \contentsfinish 
